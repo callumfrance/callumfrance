@@ -9,7 +9,7 @@ __Software Developer__<br/>
 
 <img align="left" height="50" width="50" src="https://img.icons8.com/wired/64/000000/linkedin.png"/>
 
-<a href="https://linkedin.com/in/callumfrance">LinkedIn</a><br/><br/>
+<a href="https://linkedin.com/in/callum-france">LinkedIn</a><br/><br/>
 
 <img align="left" height="50" width="50" src="https://img.icons8.com/wired/64/000000/filled-message.png"/>
 
