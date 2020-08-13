@@ -1,15 +1,23 @@
 # Callum France
 
-##### Electrical Engineer
-##### Software Developer
+__Electrical Engineer__<br/>
+__Software Developer__
 
 
 --------------------------------------------------
 
 
-<img height="30" src="https://img.icons8.com/wired/64/000000/asterisk.png"/> <a href="https://callum-france.me">Personal Website</a> 📚
-<img height="30" src="https://img.icons8.com/wired/64/000000/linkedin.png"/> <a href="https://linkedin.com/in/callumfrance">LinkedIn</a>
-<img height="30" src="https://img.icons8.com/wired/64/000000/filled-message.png"/> <a href="mailto:france.callum@gmail.com">Email</a>
+<img align="left" height="50" width="50" src="https://img.icons8.com/wired/64/000000/asterisk.png"/> 
+
+<a href="https://callum-france.me">Personal Website</a> 📚<br/>
+
+<img align="left" height="50" width="50" src="https://img.icons8.com/wired/64/000000/linkedin.png"/><br/>
+
+<a href="https://linkedin.com/in/callumfrance">LinkedIn</a><br/>
+
+<img align="left" height="50" width="50" src="https://img.icons8.com/wired/64/000000/filled-message.png"/>
+
+<a href="mailto:france.callum@gmail.com">Email</a>
 
 
 --------------------------------------------------
