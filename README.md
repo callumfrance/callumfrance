@@ -2,5 +2,3 @@
 
 __Electrical Engineer__<br/>
 __Software Developer__<br/>
-
-<img height="180" src="https://raw.githubusercontent.com/callumfrance/callumfrance/master/this.jpg" />
