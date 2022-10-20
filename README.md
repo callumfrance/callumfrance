@@ -1,4 +1,8 @@
-## Hi, my name is Callum and I build stuff
+<div align="center">
+<h2>Hi, my name is Callum and I build stuff</h2>
+<em>Electrical Engineer</em><br/>
+<em>Software Developer</em><br/>
 
-__Electrical Engineer__<br/>
-__Software Developer__<br/>
+https://callum-france.me
+
+</div>
