@@ -3,6 +3,4 @@
 <em>Electrical Engineer</em><br/>
 <em>Software Developer</em><br/>
 
-https://callum-france.me
-
 </div>
